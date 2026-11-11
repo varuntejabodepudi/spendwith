@@ -125,9 +125,12 @@ This repository is maintained for the Track-Spense project. Before proposing cha
 4. Test database migrations and date/time behavior when changing persistence or transaction logic.
 5. Do not include personal financial information in commits, issues, or test fixtures.
 
-## License
+## Privacy and license
 
-No open-source license has been specified yet. Unless a license is added to this repository, the source remains under the copyright owner's all-rights-reserved terms. Do not assume it is available for reuse, redistribution, or commercial use.
+- [Privacy Policy](PRIVACY.md)
+- [MIT License](LICENSE)
+
+The privacy policy describes the intended local-first data handling of the current project. Before publishing a release, verify that the policy and Google Play Data safety declarations accurately match the exact app build.
 
 ---
 
